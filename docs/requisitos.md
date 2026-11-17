@@ -1,7 +1,7 @@
 # Documento de Requisitos: VidaPet
 
-**Aluno:** Lorhan Messias
-**Disciplina:** Projeto de Bloco: Desenvolvimento Back-End [26E4_5]
+**Aluno:** Lorhan Messias\
+**Disciplina:** Projeto de Bloco: Desenvolvimento Back-End [26E4_5]\
 **Versão:** 1.0 (TP1)
 
 ## 1. Visão geral

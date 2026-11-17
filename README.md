@@ -1,8 +1,8 @@
 # VidaPet: Sistema de Agendamento da Clínica Veterinária
 
-**Aluno:** Lorhan Messias
-**Disciplina:** Projeto de Bloco: Desenvolvimento Back-End [26E4_5]
-**Entrega:** TP1
+**Aluno:** Lorhan Messias\
+**Disciplina:** Projeto de Bloco: Desenvolvimento Back-End [26E4_5]\
+**Entrega:** TP1\
 **Trilha:** Java (JDK 21 LTS + IntelliJ IDEA Community)
 
 ## Estrutura
