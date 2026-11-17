@@ -1,0 +1,14 @@
+# Compilados
+*.class
+out/
+bin/
+target/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
